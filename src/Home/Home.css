@@ -1,0 +1,7 @@
+.banner{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/musicdaam-b8f0b.appspot.com/o/nwa%20banner.jfif?alt=media&token=b2d876c2-950e-4c49-ae9f-b92834efaacb");
+    background-size: cover;
+    background-position: top center;
+    background-attachment:fixed;
+    padding: 25%;
+}
