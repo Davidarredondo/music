@@ -3,8 +3,8 @@ export function Footer(){
     return(
         <>
         <footer className="footer">
-        <div class="card">
-  <div class="card-header">
+        <div className="card">
+  <div className="card-header">
    Presentado por Ruthless Records
   </div>
   <div className="card-body">

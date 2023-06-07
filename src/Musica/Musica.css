@@ -1,0 +1,9 @@
+.contenido{
+    padding: 10%;
+    width: 25dp;
+    height: 25dp;
+}
+
+.card{
+    background-color: rgb(0, 2, 6);
+}
